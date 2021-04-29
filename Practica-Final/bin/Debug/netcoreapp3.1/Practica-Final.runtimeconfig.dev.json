@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HP Probook 4430s\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HP Probook 4430s\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
